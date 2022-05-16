@@ -1,0 +1,34 @@
+/* Start Warna bg */
+
+.bg-ijo-gradasi{
+    background: linear-gradient(108.82deg, #4BB0A0 -1.17%, #279281 -1.16%, #4CB4A4 46.33%, #040908 112.73%);
+}
+
+/* End Warna bg */
+
+/* Start Ukuran */
+
+.container{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+
+.kepala{
+    position: absolute;
+    width: 100%;
+    height: 5rem;
+}
+
+.batas{
+    position: absolute;
+    /* margin: auto 5rem; */
+    top: 50%;
+    left: 5rem;
+    right: 5rem;
+    transform: translateY(-50%);
+}
+
+/* End Ukuran */
